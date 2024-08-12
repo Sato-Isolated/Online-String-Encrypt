@@ -1,12 +1,4 @@
-﻿<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>String Encoder - README</title>
 
-</head>
-<body>
 
 <h1>String Encoder</h1>
 
@@ -64,6 +56,3 @@
   <li><strong>LTC :</strong> LVu6dmsaAfp9mi5s6BRFZApBrScQvhYF9s</li>
   <li><strong>BTC :</strong> bc1qps0wd0hhhkz6p924c76s6xc8xt5hn4ctnqtjk2</li>
 </ul>
-
-</body>
-</html>
