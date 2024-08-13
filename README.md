@@ -1,5 +1,3 @@
-
-
 <h1>String Encoder</h1>
 
 <h2>Overview</h2>
@@ -37,6 +35,7 @@
 <h2>Important Notes</h2>
 <ul>
     <li><strong>Security</strong>: Ensure your database and PHP scripts are secure and accessible only to authorized users.</li>
+    <li><strong>Security Enhancements</strong>: To further improve security, consider implementing an authentication system. This would involve adding a check in the PHP script to ensure that authentication has been successfully completed before executing any further operations. However, with the current code, you must ensure that the method `Execute` does not encrypt the authentication system within the application.</li>
 </ul>
 
 <h2>Contributing</h2>
